@@ -2,6 +2,7 @@
   <!-- Change this path to your actual banner image -->
   <img src="/assets/6.png" alt="Final Year Project Banner" width="100%">
 </p>
+
 ---
 
 <h2 align="center">⊹₊⟡⋆ AI-Assisted Structured Reporting System for Radiology ⊹₊⟡⋆</h2>
@@ -11,7 +12,7 @@
 </p>
 
 <p align="center">
-  🧪 <em>Final Year Capstone Project (In Progress)</em>
+  <em>Final Year Capstone Project (In Progress)</em>
 </p>
 
 ---
