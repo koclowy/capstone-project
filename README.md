@@ -53,7 +53,7 @@ This project proposes **Echo** — an intelligent, web-based platform powered by
 ## ₊⟡⋆ About DrEcho — The AI Assistant
 DrEcho is an AI-assisted chatbot that allows radiologists to interact naturally:
 
-### 🗣 Example
+### Example
 **Radiologist:**
 ```
 “I want to perform Oncologic MRI Liver for John Doe, Male, 25 years old, birth date 7 Jun 2000.”
