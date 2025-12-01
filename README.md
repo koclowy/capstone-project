@@ -55,9 +55,8 @@ DrEcho is an AI-assisted chatbot that allows radiologists to interact naturally:
 
 ### Example
 **Radiologist:**
-```
-“I want to perform Oncologic MRI Liver for John Doe, Male, 25 years old, birth date 7 Jun 2000.”
-```
+> “I want to perform Oncologic MRI Liver for John Doe, Male, 25 years old, birth date 7 Jun 2000.”
+
 
 **DrEcho:**
 - Identifies exam type (Oncologic MRI Liver)
